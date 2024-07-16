@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QuizAppMatkom</string>
+    <string name="text_score_result">SCORE RESULT</string>
+    <string name="text_total_score">You scored 5 out of 10</string>
+    <string name="text_finish">FINISH</string>
+    <string name="text_welcome">WELCOME</string>
+    <string name="text_please_enter_your_name">Please Enter Your Name</string>
+    <string name="text_ex_jhon_doe">ex : Jhon Doe</string>
+    <string name="text_start">START</string>
+    <string name="text_hi_welcome">Hi, Welcome</string>
+    <string name="text_rating">0/10</string>
+    <string name="text_submit">SUBMIT</string>
+</resources>
